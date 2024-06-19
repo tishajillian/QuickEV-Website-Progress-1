@@ -5,7 +5,11 @@
 * {
     margin: 0;
     padding: 0;
+<<<<<<< HEAD
   
+=======
+    font-family: 'Plus Jakarta Sans', sans-serif;
+>>>>>>> 1891c195683b65b551b3212e1c8f0e573a2cfff6
 }
 
 .nav_bar_box {

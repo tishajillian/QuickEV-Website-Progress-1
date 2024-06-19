@@ -234,6 +234,7 @@ C:\Users\tisha\OneDrive\Documents\Coolyeah\Semester 4\Software Engineering\AOL\Q
 C:\Users\tisha\OneDrive\Documents\Coolyeah\Semester 4\Software Engineering\AOL\QuickEV_Website_Full\QuickEV_Website\obj\Debug\QuickEV_.6836D640.Up2Date
 C:\Users\tisha\OneDrive\Documents\Coolyeah\Semester 4\Software Engineering\AOL\QuickEV_Website_Full\QuickEV_Website\obj\Debug\QuickEV_Website.dll
 C:\Users\tisha\OneDrive\Documents\Coolyeah\Semester 4\Software Engineering\AOL\QuickEV_Website_Full\QuickEV_Website\obj\Debug\QuickEV_Website.pdb
+<<<<<<< HEAD
 C:\Vinson\BINUS\SEMESTER 4\Software Engineering\FILE GABUNGAN\QuickEV_Website_vinson\QuickEV-Website-Progress-1\QuickEV_Website\bin\QuickEV_Website.dll.config
 C:\Vinson\BINUS\SEMESTER 4\Software Engineering\FILE GABUNGAN\QuickEV_Website_vinson\QuickEV-Website-Progress-1\QuickEV_Website\bin\QuickEV_Website.dll
 C:\Vinson\BINUS\SEMESTER 4\Software Engineering\FILE GABUNGAN\QuickEV_Website_vinson\QuickEV-Website-Progress-1\QuickEV_Website\bin\QuickEV_Website.pdb
@@ -297,3 +298,5 @@ C:\Vinson\BINUS\SEMESTER 4\Software Engineering\FILE GABUNGAN\QuickEV_Website_vi
 C:\Vinson\BINUS\SEMESTER 4\Software Engineering\FILE GABUNGAN\QuickEV_Website_vinson\QuickEV-Website-Progress-1\QuickEV_Website\obj\Debug\QuickEV_.6836D640.Up2Date
 C:\Vinson\BINUS\SEMESTER 4\Software Engineering\FILE GABUNGAN\QuickEV_Website_vinson\QuickEV-Website-Progress-1\QuickEV_Website\obj\Debug\QuickEV_Website.dll
 C:\Vinson\BINUS\SEMESTER 4\Software Engineering\FILE GABUNGAN\QuickEV_Website_vinson\QuickEV-Website-Progress-1\QuickEV_Website\obj\Debug\QuickEV_Website.pdb
+=======
+>>>>>>> 1891c195683b65b551b3212e1c8f0e573a2cfff6

@@ -1,5 +1,6 @@
 {
   "Version": 1,
+<<<<<<< HEAD
   "WorkspaceRootPath": "C:\\Vinson\\BINUS\\SEMESTER 4\\Software Engineering\\FILE GABUNGAN\\QuickEV_Website_vinson\\QuickEV-Website-Progress-1\\",
   "Documents": [
     {
@@ -21,6 +22,25 @@
     {
       "AbsoluteMoniker": "D:0:0:{13692FA7-F937-4BC5-862E-F9389CD62FD4}|QuickEV_Website\\QuickEV_Website.csproj|C:\\Vinson\\BINUS\\SEMESTER 4\\Software Engineering\\FILE GABUNGAN\\QuickEV_Website_vinson\\QuickEV-Website-Progress-1\\quickev_website\\views\\css\\signuppage_css.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{13692FA7-F937-4BC5-862E-F9389CD62FD4}|QuickEV_Website\\QuickEV_Website.csproj|solutionrelative:quickev_website\\views\\css\\signuppage_css.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+=======
+  "WorkspaceRootPath": "C:\\Users\\tisha\\OneDrive\\Documents\\Coolyeah\\Semester 4\\Software Engineering\\AOL\\QuickEV_Website_Full\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{13692FA7-F937-4BC5-862E-F9389CD62FD4}|QuickEV_Website\\QuickEV_Website.csproj|c:\\users\\tisha\\onedrive\\documents\\coolyeah\\semester 4\\software engineering\\aol\\quickev_website_full\\quickev_website\\views\\aspx\\carikegiatanpage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{13692FA7-F937-4BC5-862E-F9389CD62FD4}|QuickEV_Website\\QuickEV_Website.csproj|solutionrelative:quickev_website\\views\\aspx\\carikegiatanpage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13692FA7-F937-4BC5-862E-F9389CD62FD4}|QuickEV_Website\\QuickEV_Website.csproj|c:\\users\\tisha\\onedrive\\documents\\coolyeah\\semester 4\\software engineering\\aol\\quickev_website_full\\quickev_website\\repository\\komunitasrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13692FA7-F937-4BC5-862E-F9389CD62FD4}|QuickEV_Website\\QuickEV_Website.csproj|solutionrelative:quickev_website\\repository\\komunitasrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13692FA7-F937-4BC5-862E-F9389CD62FD4}|QuickEV_Website\\QuickEV_Website.csproj|C:\\Users\\tisha\\OneDrive\\Documents\\Coolyeah\\Semester 4\\Software Engineering\\AOL\\QuickEV_Website_Full\\quickev_website\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13692FA7-F937-4BC5-862E-F9389CD62FD4}|QuickEV_Website\\QuickEV_Website.csproj|solutionrelative:quickev_website\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13692FA7-F937-4BC5-862E-F9389CD62FD4}|QuickEV_Website\\QuickEV_Website.csproj|C:\\Users\\tisha\\OneDrive\\Documents\\Coolyeah\\Semester 4\\Software Engineering\\AOL\\QuickEV_Website_Full\\quickev_website\\repository\\relawanrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13692FA7-F937-4BC5-862E-F9389CD62FD4}|QuickEV_Website\\QuickEV_Website.csproj|solutionrelative:quickev_website\\repository\\relawanrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+>>>>>>> 1891c195683b65b551b3212e1c8f0e573a2cfff6
     }
   ],
   "DocumentGroupContainers": [
@@ -29,6 +49,7 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
+<<<<<<< HEAD
           "DockedWidth": 277,
           "SelectedChildIndex": 1,
           "Children": [
@@ -90,6 +111,9 @@
         },
         {
           "DockedWidth": 393,
+=======
+          "DockedWidth": 335,
+>>>>>>> 1891c195683b65b551b3212e1c8f0e573a2cfff6
           "SelectedChildIndex": 1,
           "Children": [
             {
@@ -99,6 +123,7 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+<<<<<<< HEAD
               "Title": "TentangKamiPage.aspx",
               "DocumentMoniker": "C:\\Vinson\\BINUS\\SEMESTER 4\\Software Engineering\\FILE GABUNGAN\\QuickEV_Website_vinson\\QuickEV-Website-Progress-1\\QuickEV_Website\\Views\\ASPX\\TentangKamiPage.aspx",
               "RelativeDocumentMoniker": "QuickEV_Website\\Views\\ASPX\\TentangKamiPage.aspx",
@@ -108,6 +133,54 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
               "WhenOpened": "2024-06-17T05:56:50.428Z",
               "EditorCaption": ""
+=======
+              "Title": "CariKegiatanPage.aspx",
+              "DocumentMoniker": "C:\\Users\\tisha\\OneDrive\\Documents\\Coolyeah\\Semester 4\\Software Engineering\\AOL\\QuickEV_Website_Full\\QuickEV_Website\\Views\\ASPX\\CariKegiatanPage.aspx",
+              "RelativeDocumentMoniker": "QuickEV_Website\\Views\\ASPX\\CariKegiatanPage.aspx",
+              "ToolTip": "C:\\Users\\tisha\\OneDrive\\Documents\\Coolyeah\\Semester 4\\Software Engineering\\AOL\\QuickEV_Website_Full\\QuickEV_Website\\Views\\ASPX\\CariKegiatanPage.aspx",
+              "RelativeToolTip": "QuickEV_Website\\Views\\ASPX\\CariKegiatanPage.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-06-09T18:35:27.529Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "KomunitasRepository.cs",
+              "DocumentMoniker": "C:\\Users\\tisha\\OneDrive\\Documents\\Coolyeah\\Semester 4\\Software Engineering\\AOL\\QuickEV_Website_Full\\QuickEV_Website\\Repository\\KomunitasRepository.cs",
+              "RelativeDocumentMoniker": "QuickEV_Website\\Repository\\KomunitasRepository.cs",
+              "ToolTip": "C:\\Users\\tisha\\OneDrive\\Documents\\Coolyeah\\Semester 4\\Software Engineering\\AOL\\QuickEV_Website_Full\\QuickEV_Website\\Repository\\KomunitasRepository.cs",
+              "RelativeToolTip": "QuickEV_Website\\Repository\\KomunitasRepository.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwBUAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T15:21:24.071Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RelawanRepository.cs",
+              "DocumentMoniker": "C:\\Users\\tisha\\OneDrive\\Documents\\Coolyeah\\Semester 4\\Software Engineering\\AOL\\QuickEV_Website_Full\\QuickEV_Website\\Repository\\RelawanRepository.cs",
+              "RelativeDocumentMoniker": "QuickEV_Website\\Repository\\RelawanRepository.cs",
+              "ToolTip": "C:\\Users\\tisha\\OneDrive\\Documents\\Coolyeah\\Semester 4\\Software Engineering\\AOL\\QuickEV_Website_Full\\QuickEV_Website\\Repository\\RelawanRepository.cs",
+              "RelativeToolTip": "QuickEV_Website\\Repository\\RelawanRepository.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwBoAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T15:21:30.58Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\tisha\\OneDrive\\Documents\\Coolyeah\\Semester 4\\Software Engineering\\AOL\\QuickEV_Website_Full\\QuickEV_Website\\Repository\\UserRepository.cs",
+              "RelativeDocumentMoniker": "QuickEV_Website\\Repository\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\tisha\\OneDrive\\Documents\\Coolyeah\\Semester 4\\Software Engineering\\AOL\\QuickEV_Website_Full\\QuickEV_Website\\Repository\\UserRepository.cs",
+              "RelativeToolTip": "QuickEV_Website\\Repository\\UserRepository.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T15:21:37.919Z"
+>>>>>>> 1891c195683b65b551b3212e1c8f0e573a2cfff6
             }
           ]
         }

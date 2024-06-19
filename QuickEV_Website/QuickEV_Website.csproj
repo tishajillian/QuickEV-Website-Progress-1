@@ -85,15 +85,21 @@
     <Content Include="Assets\Images\komunitas_SignUp_Logo.png" />
     <Content Include="Assets\Images\location.png" />
     <Content Include="Assets\Images\Logo.png" />
+<<<<<<< HEAD
     <Content Include="Assets\Images\Profile_Video_resize.mp4" />
+=======
+>>>>>>> 1891c195683b65b551b3212e1c8f0e573a2cfff6
     <Content Include="Assets\Images\QuickEV-Logo-Black.png" />
     <Content Include="Assets\Images\QuickEV_Whitelogo.png" />
     <Content Include="Assets\Images\relawan_cariaktivitas.jpg" />
     <Content Include="Assets\Images\relawan_SignUp_Logo.png" />
+<<<<<<< HEAD
     <Content Include="Assets\Images\SearchWhite_Icon.png" />
     <Content Include="Assets\Images\TentangKami_CariOrganisasi.jpg" />
     <Content Include="Assets\Images\TentangKami_Donasi.jpg" />
     <Content Include="Assets\Images\TentangKami_Welcome.jpg" />
+=======
+>>>>>>> 1891c195683b65b551b3212e1c8f0e573a2cfff6
     <Content Include="Assets\Images\twitter.png" />
     <Content Include="Model\Model1.Context.tt">
       <Generator>TextTemplatingFileGenerator</Generator>
@@ -110,14 +116,20 @@
     <Content Include="Views\ASPX\RelawanSignUpPage.aspx" />
     <Content Include="Views\ASPX\SignInPage.aspx" />
     <Content Include="Views\ASPX\SignUpPage.aspx" />
+<<<<<<< HEAD
     <Content Include="Views\ASPX\TentangKamiPage.aspx" />
+=======
+>>>>>>> 1891c195683b65b551b3212e1c8f0e573a2cfff6
     <Content Include="Views\CSS\CariKegiatanPage_CSS.css" />
     <Content Include="Views\CSS\KomunitasSignUpPage_CSS.css" />
     <Content Include="Views\CSS\Nav-bar_CSS.css" />
     <Content Include="Views\CSS\RelawanSignUpPage_CSS.css" />
     <Content Include="Views\CSS\SignInPage_CSS.css" />
     <Content Include="Views\CSS\SignUpPage_CSS.css" />
+<<<<<<< HEAD
     <Content Include="Views\CSS\TentangKamiPage_CSS.css" />
+=======
+>>>>>>> 1891c195683b65b551b3212e1c8f0e573a2cfff6
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
@@ -194,6 +206,7 @@
     <Compile Include="Views\ASPX\sitemasternavbar.Master.designer.cs">
       <DependentUpon>sitemasternavbar.Master</DependentUpon>
     </Compile>
+<<<<<<< HEAD
     <Compile Include="Views\ASPX\TentangKamiPage.aspx.cs">
       <DependentUpon>TentangKamiPage.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
@@ -201,6 +214,8 @@
     <Compile Include="Views\ASPX\TentangKamiPage.aspx.designer.cs">
       <DependentUpon>TentangKamiPage.aspx</DependentUpon>
     </Compile>
+=======
+>>>>>>> 1891c195683b65b551b3212e1c8f0e573a2cfff6
   </ItemGroup>
   <ItemGroup>
     <EntityDeploy Include="Model\Model1.edmx">

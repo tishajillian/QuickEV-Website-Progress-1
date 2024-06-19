@@ -43,6 +43,7 @@
 }
 .TemukanKegiatan_Container {
     background-color: #566246;
+<<<<<<< HEAD
     text-align:center;
     border-radius:12px;
     width:376px;
@@ -50,10 +51,24 @@
     align-items:center;
 }
 .Welcome_CariKegiatan_Container_LeftContent {
+=======
+    text-align: center;
+    border-radius:10px;
+    width:376px;
+    height:67px;
+    display:flex;
+    text-align:center;
+    align-content:center;
+    align-items:center;
+    justify-content:center;
+}
+.Welcome_CariKegiatan_Container_Text3 {
+>>>>>>> 1891c195683b65b551b3212e1c8f0e573a2cfff6
     font-family: 'Plus Jakarta Sans',sans-serif;
     font-weight: 800;
     font-size: 25px;
     color: rgba(255,255,255,0.81);      
+<<<<<<< HEAD
     display:flex;
     float:left;
     align-items:center;
@@ -102,4 +117,6 @@
 
 .TotalAktivitas_Text{
     font-family: 'Inter',sans-serif;
+=======
+>>>>>>> 1891c195683b65b551b3212e1c8f0e573a2cfff6
 }

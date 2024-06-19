@@ -33,12 +33,17 @@ namespace QuickEV_Website.Views.ASPX
         protected global::System.Web.UI.WebControls.Label Welcome_CariKegiatan_Container_Text2;
 
         /// <summary>
+<<<<<<< HEAD
         /// TotalAktivitas_Text control.
+=======
+        /// Welcome_CariKegiatan_Container_Text3 control.
+>>>>>>> 1891c195683b65b551b3212e1c8f0e573a2cfff6
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
+<<<<<<< HEAD
         protected global::System.Web.UI.WebControls.Label TotalAktivitas_Text;
 
         /// <summary>
@@ -49,5 +54,8 @@ namespace QuickEV_Website.Views.ASPX
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
         protected global::System.Web.UI.WebControls.Label AktivitasMenunggu;
+=======
+        protected global::System.Web.UI.WebControls.Label Welcome_CariKegiatan_Container_Text3;
+>>>>>>> 1891c195683b65b551b3212e1c8f0e573a2cfff6
     }
 }
